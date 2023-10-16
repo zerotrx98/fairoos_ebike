@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "281280678662",
+    "project_id": "e-bike-511f2",
+    "storage_bucket": "e-bike-511f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281280678662:android:a7c798ac0907732e20ec87",
+        "android_client_info": {
+          "package_name": "com.example.fairoos_ebike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281280678662-2736qfadq3md0euj6qj971vhgiqc4q7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQK0-vT9mhg_GOgTzxiRTc5iWEDxcLeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281280678662-2736qfadq3md0euj6qj971vhgiqc4q7t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281280678662-dms0s26era6a2fp1hpjiichjva17ld5t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eBike"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
