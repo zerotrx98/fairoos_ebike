@@ -3,9 +3,6 @@ import 'package:cloud_firestore_web/cloud_firestore_web.dart';
 import 'package:fairoos_ebike/screens/demo/service/servicemodel.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
-//import 'package:pro/models/user_model.dart';
-// user repository is to perform Database oprations
 
 class Sevi_Repository extends GetxController {
   static Sevi_Repository get instance => Get.find();
